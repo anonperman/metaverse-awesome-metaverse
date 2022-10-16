@@ -89,6 +89,7 @@ List of awesome projects and information resources about the [Metaverse](https:/
 - [WebXR](https://immersive-web.github.io/webxr/) - Accessing VR/AR hardware on the web
 - [Open Metaverse Interoperability group (OMI)](https://omigroup.org) - Working group for open protocols / standards
 - [Metaverse Standards Forum](https://metaverse-standards.org/) - a new venue for cooperation between standards organizations and companies to foster the development of interoperability standards for an open and inclusive metaverse
+- [IEEE discussions](https://spectrum.ieee.org/tag/metaverse) - IEEE discussions about metaverse
 
 ## Books
 
